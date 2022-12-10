@@ -1,5 +1,5 @@
 # JS-rock-paper-and-scissors,
-this is a simple Rock, paper and scissors game, that will help
+This is a simple Rock, paper and scissors game, that will help
 write js from scratch
 
 This game is player vs Computer;
